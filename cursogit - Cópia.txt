@@ -1,2 +1,6 @@
 Apenas um curso de git!
+<<<<<<< HEAD
 rspositório1
+=======
+Repositório2
+>>>>>>> 2e1e87833451f21e8bc4ac4578dbf22e77e05136
